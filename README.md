@@ -1,4 +1,4 @@
-from GitHub import ReadMe
+py from GitHub import ReadMe
 
 class Marseille1337(ReadMe):
     "/Marseille1337/Marseille1337/README.md"
