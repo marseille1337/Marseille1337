@@ -1,19 +1,7 @@
-from GitHub import ReadMe
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Marseille1337)
 
-class Marseille1337(ReadMe):
-    "/Marseille1337/Marseille1337/README.md"
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Marseille1337&count_private=true&show_icons=true)
 
-    def init(self):
-        self.username = "Marseille"
-        self.contacts = {
-            "Discord": "marseille#7288",
-            "Telegram": "marseille1337"
-        }
-        self.alises = [
-            "marseille",
-            "marseille1337
-        ]
-        self.location = "Bremen, Germany"
-        self.age = "13, Born 22 november 2008"
-        self.occupation = "Freelance Developer"
-        self.operating_system = "Windows, Linux"
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marseille1337&layout=default)
+
+<a href="https://www.linkedin.com/in/aaron-jonk-5a3054193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
