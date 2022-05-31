@@ -1,4 +1,3 @@
-py
 from GitHub import ReadMe
 
 class Marseille1337(ReadMe):
