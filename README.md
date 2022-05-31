@@ -1,16 +1,20 @@
-### Hi there 👋
+``py
+from GitHub import ReadMe
 
-<!--
-**marseille1337/Marseille1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Marseille1337(ReadMe):
+    "/Marseille1337/Marseille1337/README.md"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def init(self):
+        self.username = "Marseille"
+        self.contacts = {
+            "Discord": "marseille#7288",
+            "Telegram": "marseille1337"
+        }
+        self.alises = [
+            "marseille",
+            "marseille1337
+        ]
+        self.location = "Bremen, Germany"
+        self.age = "13, Born 22 november 2008"
+        self.occupation = "Freelance Developer"
+        self.operating_system = "Windows, Linux"``
