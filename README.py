@@ -1,4 +1,4 @@
-``py
+py
 from GitHub import ReadMe
 
 class Marseille1337(ReadMe):
@@ -17,4 +17,4 @@ class Marseille1337(ReadMe):
         self.location = "Bremen, Germany"
         self.age = "13, Born 22 november 2008"
         self.occupation = "Freelance Developer"
-        self.operating_system = "Windows, Linux"``
+        self.operating_system = "Windows, Linux"
